@@ -1,0 +1,17 @@
+F:\C#\DataShowWinform\bin\Debug\DataShowWinform.exe.config
+F:\C#\DataShowWinform\bin\Debug\DataShowWinform.exe
+F:\C#\DataShowWinform\bin\Debug\DataShowWinform.pdb
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.csprojResolveAssemblyReference.cache
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.Form1.resources
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.Properties.Resources.resources
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.csproj.GenerateResource.Cache
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.csproj.CoreCompileInputs.cache
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.exe
+F:\C#\DataShowWinform\obj\Debug\DataShowWinform.pdb
+F:\C#\DataShowWinform\bin\Debug\NeuronDotNet.Core.dll
+F:\C#\DataShowWinform\bin\Debug\ThinkGear.dll
+F:\C#\DataShowWinform\bin\Debug\NLog.dll
+F:\C#\DataShowWinform\bin\Debug\Jayrock.Json.dll
+F:\C#\DataShowWinform\bin\Debug\NeuronDotNet.Core.xml
+F:\C#\DataShowWinform\bin\Debug\NLog.xml
+F:\C#\DataShowWinform\bin\Debug\Tobii.Interaction.Net.dll
